@@ -25,21 +25,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="190" src="https://64.media.tumblr.com/d7c46cd50cde8a6bf33217fb1bf91051/34e583fa83a3f6f2-f2/s640x960/021ee40431dfba3671b221c05ff93d229142c02e.gifv"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/EMPI69/EMPI69/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/EMPI69/EMPI69/blob/output/github-snake-dark.svg)
 
 ###
