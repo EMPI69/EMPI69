@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Aditya </h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EMPI69/EMPI69/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EMPI69/EMPI69/main/light.svg">
+    <img alt="Aditya Mishra" src="https://raw.githubusercontent.com/EMPI69/EMPI69/main/light.svg">
+  </picture>
+</div>
 
 ###
 
